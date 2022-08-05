@@ -1,0 +1,721 @@
+"Phrases"
+{
+	"System_Advertisement"
+	{
+		"chi"		"你在玩 WarioWare！ 版本 {1}。 在聊天中说 !credits 以查看游戏模式积分。"
+	}
+	"Hud_Score_Default"
+	{
+		"chi"		"分数: {1}"
+	}
+	"Hud_Score_Minigames"
+	{
+		"chi"		"下游戏: {1}"
+	}
+	"Hud_Score_TeamScore"
+	{
+	
+		"chi"		"队伍分数: {1}"
+	}
+	"Hud_Score_Barrels"
+	{
+		"chi"		"桶: {1}"
+	}
+	"Hud_RoundDisplay"
+	{
+		"chi"		"总 {2} 轮之 {1} 轮"
+	}
+	"Hud_RoundDisplayUnlimited"
+	{
+		"chi"		"回合 {1}"
+	}
+	"Hud_ThemeDisplay"
+	{
+		"chi"		"{1} 的主题曲"
+	}
+	"Hud_SpecialRound_CenterDisplay"
+	{
+		"chi"		"特殊回合: {1}！"
+	}
+	"Hud_SpecialRound_ChatDisplay"
+	{
+		"chi"		"特殊的回合条件是... {1}！\n{2}"
+	}
+	"System_PlayerSpawn_RespawnNotice"
+	{
+		"chi"		"当前的小游戏或boss游戏完成后，您将重生。"
+	}
+	"SpecialRound_SuddenDeath_PlayerKnockOutNotification"
+	{
+		"chi"		"你被淘汰了！"
+	}
+	"System_SpecialRoundBlockClassChange"
+	{
+		"chi"		"特殊回合不允许转兵种！您的分数已加 1 分。"
+	}
+	"General_Loser"
+	{
+		"chi"		"输家！"
+	}
+	"General_Winner"
+	{
+		"chi"		"赢家！"
+	}
+	"General_SpeedUp"
+	{
+		"chi"		"加速！"
+	}
+	"General_SpeedDown"
+	{
+		"chi"		"减速！"
+	}
+	"General_Failure"
+	{
+		"chi"		"失败！"
+	}
+	"General_Success"
+	{
+		"chi"		"成功！"
+	}
+	"General_BossTime"
+	{
+		"chi"		"BOSS 时间！"
+	}
+	"General_GameOver"
+	{
+		"chi"		"游戏结束！"
+	}
+	"General_SpecialRound"
+	{
+		"chi"		"特殊回合！"
+	}
+	"GameOver_SpecialRoundHasFinished"
+	{
+		"chi"		"== 特殊回合已完成！ =="
+	}
+	"GameOver_WinnerPrefixSingle"
+	{
+		"chi"		"赢家是..."
+	}
+	"GameOver_WinnerPrefixMultiple"
+	{
+		"chi"		"赢家们是..."
+	}
+	"GameOver_WinnersAnd"
+	{
+		"chi"		"{1} 和 {2}{default}"
+	}
+	"GameOver_WinnerPrefixNoOne"
+	{
+		"chi"		"没有赢家！"
+	}
+	"GameOver_WinnerSuffix"
+	{
+		"chi"		"{1} {2} {default}拥有 {3} 分数！"
+	}
+	"GameOver_WinningTeam_Red"
+	{
+		"chi"		"获胜队是获得 {1} 分的红队！"
+	}
+	"GameOver_WinningTeam_Blue"
+	{
+		"chi"		"获胜的队伍是拥有 {1} 分的蓝队！"
+	}
+	"GameOver_WinningTeam_Stalemate"
+	{
+		"chi"		"僵持！ 两队得分相同！"
+	}
+	"System_Intermission_Header"
+	{
+		"chi"		"中场休息！"
+	}
+	"System_Intermission_Body"
+	{
+		"chi"		"休息时间！ 是时候为下一张地图投票了。"
+	}
+	"Bossgame1_Caption"
+	{
+		"chi"		"火箭跳到终点！"
+	}
+	"Bossgame1_PlayerReachedEndFirst"
+	{
+		"chi"		"{1} 率先登顶！（额外加分！）"
+	}
+	"Bossgame2_Caption"
+	{
+		"chi"		"逃离工厂！"
+	}
+	"Bossgame2_PlayerReachedEndFirst"
+	{
+		"chi"		"{1} 率先逃出工厂！（额外加分！）"
+	}
+	"Bossgame3_Caption"
+	{
+		"chi"		"留在绿块！"
+	}
+	"Bossgame4_Caption"
+	{
+		"chi"		"不要掉进水里！"
+	}
+	"Bossgame5_Caption"
+	{
+		"chi"		"到达目标点！"
+	}
+	"Bossgame5_PlayerReachedEndFirst"
+	{
+		"chi"		"{1} 率先达到目标！（额外加分！）"
+	}
+	"Bossgame6_Caption"
+	{
+		"chi"		"射击最多的桶！"
+	}
+	"Bossgame8_Caption_CountTheProps"
+	{
+		"chi"		"数数道具物品！"
+	}
+	"Bossgame8_Caption_GetReady"
+	{
+		"chi"		"准备好..."
+	}
+	"Bossgame8_Caption_CorrectAnswerWas_Hidden"
+	{
+		"chi"		"正确的答案是...\n???"
+	}
+	"Bossgame8_Caption_CorrectAnswerWas_Visible"
+	{
+		"chi"		"正确的答案是...\n{1}!"
+	}
+	"Bossgame8_Caption_ChooseARoom"
+	{
+		"chi"		"有多少个{1}？进入正确的答案室！\nA 室：{2} B 室：{3} C 室：{4}\n剩余时间：{5}"
+	}
+	"Bossgame8_PropType_Dispensers"
+	{
+		"chi"		"补给器"
+	}
+	"Bossgame8_PropType_AmmoPacks"
+	{
+		"chi"		"弹药包"
+	}
+	"Bossgame8_PropType_Barrels"
+	{
+		"chi"		"桶"
+	}
+	"Bossgame8_PropType_Chairs"
+	{
+		"chi"		"椅子"
+	}
+	"Bossgame8_Annotation_AnswerRoomA"
+	{
+		"chi"		"A 室: {1}"
+	}
+	"Bossgame8_Annotation_AnswerRoomB"
+	{
+		"chi"		"B 室: {1}"
+	}
+	"Bossgame8_Annotation_AnswerRoomC"
+	{
+		"chi"		"C 室: {1}"
+	}
+	"Minigame1_Caption"
+	{
+		"chi"		"走到最后！"
+	}
+	"Minigame2_Caption"
+	{
+		"chi"		"杀死一个敌人！"
+	}
+	"Minigame3_Caption"
+	{
+		"chi"		"打破桶！"
+	}
+	"Minigame4_Caption"
+	{
+		"chi"		"压缩气爆并保持生存！"
+	}
+	"Minigame5_Caption"
+	{
+		"chi"		"粘弹跳！"
+	}
+	"Minigame6_SayTheWord_CaptionFormatted"
+	{
+		"chi"		"说出单词！\n{1}"
+	}
+	"Minigame6_SayTheWord_PlayerSaidWordFirst"
+	{
+		"chi"		"{1} 率先说出了单词！ （额外加分！）"
+	}
+	"Minigame7_Caption"
+	{
+		"chi"		"火箭跳"
+	}
+	"Minigame8_CaptionFormatted"
+	{
+		"chi"		"回答问题！\n{1} = ？"
+	}
+	"Minigame8_CorrectAnswerWas"
+	{
+		"chi"		"正确的答案是 {1}！"
+	}
+	"Minigame8_PlayerAnsweredFirst"
+	{
+		"chi"		"{1} 首先得到正确答案！ （额外加分！）"
+	}
+	"Minigame9_Caption_SimonSaysTaunt"
+	{
+		"chi"		"西蒙说：嘲讽！"
+	}
+	"Minigame9_Caption_SimonSaysJump"
+	{
+		"chi"		"西蒙说：跳！"
+	}
+	"Minigame9_Caption_SimonSaysCrouch"
+	{
+		"chi"		"西蒙说：蹲下！"
+	}
+	"Minigame9_Caption_SomeoneSaysTaunt"
+	{
+		"chi"		"西萌说：嘲讽！"
+	}
+	"Minigame9_Caption_SomeoneSaysJump"
+	{
+		"chi"		"西萌说：跳！"
+	}
+	"Minigame9_Caption_SomeoneSaysCrouch"
+	{
+		"chi"		"西萌说：蹲下！"
+	}
+	"Minigame9_Caption_SimonDidntSayIt"
+	{
+		"chi"		"（西蒙并没有说...）"
+	}
+	"Minigame10_KamikazeIsHere"
+	{
+		"chi"		"神风队来了！"
+	}
+	"Minigame10_Caption_ExplodeAsMany"
+	{
+		"chi"		"爆炸尽可能多的人！"
+	}
+	"Minigame10_Caption_RunFromKamikaze"
+	{
+		"chi"		"逃离神风敢死队！"
+	}
+	"Minigame11_Caption_DontStopMoving"
+	{
+		"chi"		"不要停止移动！"
+	}
+	"Minigame11_Caption_DontMove"
+	{
+		"chi"		"不要动！"
+	}
+	"Minigame12_Caption"
+	{
+		"chi"		"登上平台！"
+	}
+	"Minigame13_Caption"
+	{
+		"chi"		"间谍蟹！"
+	}
+	"Minigame13_SpycrabsMustCrouchAndLookup"
+	{
+		"chi"		"间谍蟹必须蹲下来抬头看！"
+	}
+	"Minigame14_Caption_Spies"
+	{
+		"chi"		"入侵建筑！"
+	}
+	"Minigame14_Caption_Engineers"
+	{
+		"chi"		"让你的建筑被入侵！"
+	}
+	"Minigame15_Caption_Any"
+	{
+		"chi"		"建造点东西！"
+	}
+	"Minigame15_Caption_Dispenser"
+	{
+		"chi"		"建造个补给器！"
+	}
+	"Minigame15_Caption_Teleporter"
+	{
+		"chi"		"建造个传送装置！"
+	}
+	"Minigame15_Caption_Sentry"
+	{
+		"chi"		"建造个步哨枪！"
+	}
+	"Minigame16_Caption"
+	{
+		"chi"		"尿瓶一个敌人！"
+	}
+	"Minigame17_Caption_HitAHeavy"
+	{
+		"chi"		"打一个机枪手！"
+	}
+	"Minigame17_Caption_GetHitByMedic"
+	{
+		"chi"		"让你被一个医生打中！"
+	}
+	"Minigame18_Caption"
+	{
+		"chi"		"打中目标！"
+	}
+	"Minigame19_Caption_ChangeClassAny"
+	{
+		"chi"		"更换兵种！"
+	}
+	"Minigame19_Caption_ChangeClassScout"
+	{
+		"chi"		"更换兵种为侦察兵！"
+	}
+	"Minigame19_Caption_ChangeClassSoldier"
+	{
+		"chi"		"更换兵种为士兵！"
+	}
+	"Minigame19_Caption_ChangeClassPyro"
+	{
+		"chi"		"更换兵种为火焰兵！"
+	}
+	"Minigame19_Caption_ChangeClassDemoman"
+	{
+		"chi"		"更换兵种为爆破手！"
+	}
+	"Minigame19_Caption_ChangeClassHeavy"
+	{
+		"chi"		"更换兵种为机枪手！"
+	}
+	"Minigame19_Caption_ChangeClassEngineer"
+	{
+		"chi"		"更换兵种为工程师！"
+	}
+	"Minigame19_Caption_ChangeClassMedic"
+	{
+		"chi"		"更换兵种为医生！"
+	}
+	"Minigame19_Caption_ChangeClassSniper"
+	{
+		"chi"		"更换兵种为狙击手！"
+	}
+	"Minigame19_Caption_ChangeClassSpy"
+	{
+		"chi"		"更换兵种为间谍！"
+	}
+	"Minigame20_Caption_Drink"
+	{
+		"chi"		"喝！"
+	}
+	"Minigame20_Caption_DontDrink"
+	{
+		"chi"		"别喝！"
+	}
+	"Minigame20_Caption_Eat"
+	{
+		"chi"		"吃！"
+	}
+	"Minigame20_Caption_DontEat"
+	{
+		"chi"		"别吃！"
+	}
+	"Minigame21_Caption"
+	{
+		"chi"		"击晕一个敌人！"
+	}
+	"Minigame22_Caption"
+	{
+		"chi"		"留在地上！"
+	}
+	"Minigame23_Caption"
+	{
+		"chi"		"二段跳！"
+	}
+	"Minigame24_Caption"
+	{
+		"chi"		"针筒跳！"
+	}
+	"Minigame25_Caption"
+	{
+		"chi"		"喷气背包！"
+	}
+	"Minigame26_Caption_DontLaugh"
+	{
+		"chi"		"别笑！"
+	}
+	"Minigame26_Caption_MakeThemLaugh_Scout"
+	{
+		"chi"		"让侦察兵笑！"
+	}
+	"Minigame26_Caption_MakeThemLaugh_Soldier"
+	{
+		"chi"		"让士兵笑！"
+	}
+	"Minigame26_Caption_MakeThemLaugh_Pyro"
+	{
+		"chi"		"让火焰兵笑！"
+	}
+	"Minigame26_Caption_MakeThemLaugh_Demoman"
+	{
+		"chi"		"让爆破手笑！"
+	}
+	"Minigame26_Caption_MakeThemLaugh_Engineer"
+	{
+		"chi"		"让工程师笑！"
+	}
+	"Minigame26_Caption_MakeThemLaugh_Medic"
+	{
+		"chi"		"让医生笑！"
+	}
+	"Minigame26_Caption_MakeThemLaugh_Sniper"
+	{
+		"chi"		"让狙击手笑！"
+	}
+	"Minigame26_Caption_MakeThemLaugh_Spy"
+	{
+		"chi"		"让间谍笑！"
+	}
+	"Minigame27_Caption"
+	{
+		"chi"		"击中一名敌人！"
+	}
+	"Minigame28_Caption"
+	{
+		"chi"		"爆炸跳上平台！"
+	}
+	"Minigame29_Caption"
+	{
+		"chi"		"别碰任何人！"
+	}
+	"Bossgame7_Caption_TypeTheWords"
+	{
+		"chi"		"说出单词！"
+	}
+	"Bossgame7_Caption_Explain"
+	{
+		"chi"		"尽可能快地说出聊天中的每个字以求生存！"
+	}
+	"Bossgame7_Caption_Start"
+	{
+		"chi"		"开始！"
+	}
+	"Bossgame7_Caption_TimeRemaining"
+	{
+		"chi"		"== 观察中 ==\n\n剩余时间：{1} 秒"
+	}
+	"Bossgame7_Caption_SayTheWord"
+	{
+		"chi"		"== 说出单词！ ==\n\n{1}\n\n下一单词：{2}\n剩余时间：{3} 秒"
+	}
+	"Bossgame7_Caption_WinnerAnnouncement"
+	{
+		"chi"		"== 公告 ==\n\n赢家是...\n{1}！"
+	}
+	"Bossgame7_Caption_LevelUpAnnouncement"
+	{
+		"chi"		"== 公告 == \n\n升级！这些单词将变得更加困难！"
+	}
+	"Bossgame7_Caption_RoundReview"
+	{
+		"#format"		"{1:s}"
+		"chi"		"== 回合回顾 == \n\n最少次数输入了单词的玩家是...\n{1}"
+	}
+	"Bossgame7_Caption_RoundReview_AndMore"
+	{
+		"chi"		"{1}\n和 {2} 更多..."
+	}
+	"Bossgame7_Caption_RoundReview_EveryoneSurvives"
+	{
+		"chi"		"{1}没有人！\n\n每个人又幸存了一轮！"
+	}
+	"Bossgame7_ClassChangeWarning"
+	{
+		"chi"		"在boss期间不允许更换兵种！"
+	}
+	"SpecialRound0_Name"
+	{
+		"chi"		"第三人称"
+	}
+	"SpecialRound0_Description"
+	{
+		"chi"		"所有玩家都以全新的视角进行比赛！"
+	}
+	"SpecialRound1_Name"
+	{
+		"chi"		"肾上腺素射击"
+	}
+	"SpecialRound1_Description"
+	{
+		"chi"		"回合开始得很快！ 然后减速！"
+	}
+	"SpecialRound2_Name"
+	{
+		"chi"		"延长回合"
+	}
+	"SpecialRound2_Description"
+	{
+		"chi"		"boss游戏前会玩30个小游戏！"
+	}
+	"SpecialRound3_Name"
+	{
+		"chi"		"低重力"
+	}
+	"SpecialRound3_Description"
+	{
+		"chi"		"太空？太空！是太空啊啊啊啊啊啊啊啊啊啊啊啊！"
+	}
+	"SpecialRound4_Name"
+	{
+		"chi"		"镇静丸"
+	}
+	"SpecialRound4_Description"
+	{
+		"chi"		"本轮不会发生速度变化！"
+	}
+	"SpecialRound5_Name"
+	{
+		"chi"		"游戏时间攻击"
+	}
+	"SpecialRound5_Description"
+	{
+		"chi"		"每次小游戏后，回合都会加快！"
+	}
+	"SpecialRound6_Name"
+	{
+		"chi"		"上和下"
+	}
+	"SpecialRound6_Description"
+	{
+		"chi"		"每次小游戏后，都会选择一个随机速度！"
+	}
+	"SpecialRound7_Name"
+	{
+		"chi"		"慢动作"
+	}
+	"SpecialRound7_Description"
+	{
+		"chi"		"每次小游戏后，回合都会减慢！"
+	}
+	"SpecialRound8_Name"
+	{
+		"chi"		"仅限数学"
+	}
+	"SpecialRound8_Description"
+	{
+		"chi"		"是时候测试你的数学技能了！"
+	}
+	"SpecialRound9_Name"
+	{
+		"chi"		"相反日"
+	}
+	"SpecialRound9_Description"
+	{
+		"chi"		"得分最低的玩家将会赢得这一轮！"
+	}
+	"SpecialRound10_Name"
+	{
+		"chi"		"两场boss战"
+	}
+	"SpecialRound10_Description"
+	{
+		"chi"		"两场bossgame将在比赛结束前进行！"
+	}
+	"SpecialRound11_Name"
+	{
+		"chi"		"团队战"
+	}
+	"SpecialRound11_Description"
+	{
+		"chi"		"如果您赢得了一场小游戏，则会在您的团队得分上加一分！ 最后得分最高的队伍获胜！"
+	}
+	"SpecialRound12_Name"
+	{
+		"chi"		"单人玩家"
+	}
+	"SpecialRound12_Description"
+	{
+		"chi"		"咦 ... 大家都去哪儿了？"
+	}
+	"SpecialRound13_Name"
+	{
+		"chi"		"仅限骷髅"
+	}
+	"SpecialRound13_Description"
+	{
+		"chi"		"本轮不允许使用皮肤！"
+	}
+	"SpecialRound14_Name"
+	{
+		"chi"		"微小"
+	}
+	"SpecialRound14_Description"
+	{
+		"chi"		"每个人都变成了小小人！"
+	}
+	"SpecialRound15_Name"
+	{
+		"chi"		"摇头公仔"
+	}
+	"SpecialRound15_Description"
+	{
+		"chi"		"每个人都变成了一堆空头！"
+	}
+	"SpecialRound16_Name"
+	{
+		"chi"		"分数随机器"
+	}
+	"SpecialRound16_Description"
+	{
+		"chi"		"如果您赢得了一场小游戏，您将获得随机数量的积分！"
+	}
+	"SpecialRound16_Caption_Points"
+	{
+		"chi"		"如果您赢得这个小游戏，您将获得 {1} 分！"
+	}
+	"SpecialRound17_Name"
+	{
+		"chi"		"骤死战"
+	}
+	"SpecialRound17_Description"
+	{
+		"chi"		"如果你输了一个小游戏，你就会被淘汰！最后没有失败的玩家会赢得回合！"
+	}
+	"SpecialRound17_Caption_Full"
+	{
+		"chi"		"当前玩家（{1} 个，共 {2} 个）\n{3}"
+	}
+	"SpecialRound17_Caption_AndMore"
+	{
+		"chi"		"{1} 个（还有 {2} 个）"
+	}
+	"SpecialRound18_Name"
+	{
+		"chi"		"梭哈"
+	}
+	"SpecialRound18_Description"
+	{
+		"chi"		"如果您输掉一场小游戏，您将失去所有积分！"
+	}
+	"SpecialRound19_Name"
+	{
+		"chi"		"反转文本"
+	}
+	"SpecialRound19_Description"
+	{
+		"chi"		"！了转反绍介的戏游小"
+	}
+	"SpecialRound20_Name"
+	{
+		"chi"		"不停止"
+	}
+	"SpecialRound20_Description"
+	{
+		"chi"		"本轮小游戏之间没有休息！"
+	}
+	"SpecialRound21_Name"
+	{
+		"chi"		"军团要塞 64"
+	}
+	"SpecialRound21_Description"
+	{
+		"chi"		"嘿！我的面数呢？"
+	}
+}
